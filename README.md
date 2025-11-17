@@ -1,6 +1,7 @@
-<!-- Banner (upload the image to your repo and replace BANNER_LINK_HERE) -->
+<!-- Banner  -->
 <p align="center">
-  <img src="BANNER_LINK_HERE" alt="AI Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Juls-Synapmind/Juls-Synapmind/main/Banner%20Juls-synapmind.png" alt="AI Banner" width="50%" />
+
 </p>
 
 <h1 align="center">✨ Welcome! I'm <b>Julia AI Engineer</b> 👋</h1>
