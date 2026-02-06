@@ -1,24 +1,19 @@
-<!-- Banner  -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Juls-Synapmind/Juls-Synapmind/main/Banner%20Juls-synapmind.png" alt="AI Banner" width="50%" />
-
 </p>
 
-<h1 align="center">✨ Welcome! I'm <b>Julia AI Engineer</b> 👋</h1>
+<h1 align="center">✨ Welcome! I'm <b>Julia Álvarez</b> 👋</h1>
 
 <p align="center">
-  🚀 <b>AI Engineer</b> • 🤖 <b>Machine Learning</b> • 🧪 <b>PoC Builder</b> • 🔥 <b>Generative AI Developer</b>  
+  🚀 <b>ML / AI Engineer</b> • ⏱️ <b>Agentic AI</b> • 🔎 <b>RAG</b> • 📊 <b>Data Analysis</b>
 </p>
+
 
 ---
 
 ## 🌟 Who I Am
-
-I’m an AI engineer passionate about building **innovative prototypes**, experimenting with **Generative AI**, and transforming ideas into **practical PoCs that deliver real business value**.
-
-My background in analytical and regulated environments taught me rigor, precision, and structured problem-solving — skills I now apply to developing **LLMs, RAG systems, agents, and deep learning models**.
-
-I love exploring cutting-edge AI technologies, breaking them apart, and rebuilding them into something useful and impactful.
+AI/ML engineer building end-to-end data solutions: automated pipelines, time-series risk signals, retrieval systems (RAG), and data quality monitoring.
 
 ---
 
@@ -26,79 +21,51 @@ I love exploring cutting-edge AI technologies, breaking them apart, and rebuildi
 
 | Area | Skills |
 |------|--------|
-| 🧠 **Generative AI** | LLMs, RAG, Agents, Prompt Engineering |
-| 🔍 **Machine Learning** | Neural networks, Autoencoders, Supervised & Unsupervised ML |
-| 💬 **NLP** | Embeddings, Classification, Summarization, Q&A Pipelines |
-| 🧪 **PoC Development** | Rapid prototyping, experimentation, evaluation |
-| 🧩 **Engineering** | Python, FastAPI, Streamlit, React |
-| ☁️ **Cloud & MLOps** | Docker, Kubernetes, GCP |
-| 📦 **Databases** | SQL, NoSQL, FAISS, ChromaDB |
+| 🧠 **Machine Learning** | Python · pandas · NumPy · scikit-learn |
+| ⏱️ **Time Series** | time-based validation (walk-forward) · rolling stats · seasonality |
+| 🔎 **RAG / Retrieval** | Weaviate (self-hosted) · similarity retrieval with rich metadata |
+| 📊 **SPC/QC** | trend monitoring · out-of-control detection · QC deviation tracking (DCD/DCR) |
+| 🖼️ **Computer Vision** | algae identification from cytometer signals + images |
 
 ---
 
-## 📂 Highlighted Projects  
-*(A growing portfolio of practical innovation)*
+## 📂 Projects
 
-### 🔎 **1. RAG-Powered Enterprise Assistant**  
-A question-answering assistant built with embeddings, vector search, and LLMs.  
-📌 *Tech:* LangChain · OpenAI/Groq · FAISS · Streamlit · FastAPI  
-
----
-
-### 🤖 **2. Autonomous Document Intelligence Agent**  
-An agent capable of retrieving, analyzing, and summarizing documents automatically.  
-📌 *Tech:* Python · LangChain Agents · Tool Calling  
+- **QC automation:** data ingestion (LIMS → CSV) with Python for statistical analysis (trends / out-of-control), visualization (Matplotlib) and automated reporting (PDF).  
+- **RAG system for anoxia & algal bloom risk:** retrieval of historically similar conditions from time-series data (Weaviate, on-prem).  
+- **ML model for algae identification:** using cytometer signals and images.
 
 ---
 
-### 🖼️ **3. Multimodal AI for Images + Text**  
-Prototype using CLIP/Gemini to interpret visual and textual context together.  
-📌 *Tech:* PyTorch · Hugging Face · Vision Transformers  
-
----
-
-### 🧠 **4. Anomaly Detection with Deep Autoencoders**  
-Detecting unusual patterns in sensitive metrics using deep learning.  
-📌 *Tech:* TensorFlow · NumPy · Matplotlib  
-
----
-
-## 🎓 Learning & Certifications
-
-🎯 **DeepLearning.AI (Andrew Ng) – Specializations & Courses**
-- Generative AI with LLMs  
-- LangChain for LLM Application Development  
-- Machine Learning Specialization  
-- Deep Learning Specialization  
-- NLP Specialization  
-- Prompt Engineering for Developers  
-…and many more.
+## 🎓 Learning & Certifications (selected)
+- DeepLearning.AI — Machine Learning Specialization  
+- DeepLearning.AI — Deep Learning Specialization  
+- DeepLearning.AI — Generative AI with LLMs  
+- DeepLearning.AI — Probability & Statistics for ML  
+- DeepLearning.AI — RAG / Agentic AI
 
 ---
 
 ## 🧰 Tech Stack Overview
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,azure" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,react,gcp,git,github,js,mysql,linux" />
+  <!-- Libraries / tools as icons (badges) -->
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weaviate-00A3FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
 
 ## 🌐 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/julia-alvarez-alors/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:juliaalors@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
-
-## 🎯 My Mission
-
-To join an **AI Innovation team** where I can prototype new ideas, experiment with emerging models, and create real-world solutions powered by Generative AI and advanced machine learning.
-
-I love solving problems, learning fast, and building things that didn’t exist the day before.
-
----
-
-<p align="center">⭐ If you like my work, feel free to follow or connect!</p>
